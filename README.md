@@ -65,6 +65,24 @@ HII I'AM MIRALI
 <sup>This is a superscript text</sup>
 
 
+--------
+
+
+``````QUOTING CODE``````
+
+Some basic Git commands are:
+
+1:- git status
+
+2:- git add
+
+3:- git commit
+
+
+
+-------------------
+
+
 ``````IMAGE``````
 
 
@@ -72,6 +90,40 @@ HII I'AM MIRALI
   <source media="(prefers-color-scheme: dark)" srcset="http://clipartix.com/wp-content/uploads/2016/09/Cartoon-clip-art-images-illustrations-photos-2.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://clipartix.com/wp-content/uploads/2016/09/Cartoon-clip-art-images-illustrations-photos-2.png">
 </picture>
+
+-----------------
+
+
+`````LISTS`````
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+-------
+
+
+`````ORDER LIST`````
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+----------
+`````NESTED LIST`````
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+---------------
+
+`````TASK LIST`````
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 
 
