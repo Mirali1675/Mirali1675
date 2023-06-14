@@ -65,3 +65,14 @@ HII I'AM MIRALI
 <sup>This is a superscript text</sup>
 
 
+``````IMAGE``````
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://clipartix.com/wp-content/uploads/2016/09/Cartoon-clip-art-images-illustrations-photos-2.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://clipartix.com/wp-content/uploads/2016/09/Cartoon-clip-art-images-illustrations-photos-2.png">
+</picture>
+
+
+
+
